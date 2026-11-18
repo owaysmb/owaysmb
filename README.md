@@ -14,10 +14,6 @@ Software Engineer/ Fullstack Developer
 NEU - North Cyprus - KKTC  
 from Palestine - 20 Years Old
 
-🔭 &nbsp;I'm currently working on **Building redis server**  
-🌱 &nbsp;I'm currently learning **`Problem solving and Distributed Systems**  
-👯 &nbsp;I'm looking to collaborate on **Docker and typescript**
-
 ### 🛠️ Tech Stack
 
 <p align="left">
